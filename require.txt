@@ -14,6 +14,6 @@ librosa
 Pillow
 h5py
 google-api-python-client
-tornado==5.1.1
+tornado==4.5.3
 pydot3
 pydot-ng
